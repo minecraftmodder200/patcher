@@ -1,5 +1,10 @@
 # minecraft hypixel patcher
+Patcher is a Forge mod for 1.8.9 & 1.12.2 created to improve your all-around Minecraft experience, bringing tons of Quality of Life additions, performance improvements, and tons of Vanilla bug fixes.
 
+
+For a list of mods that are no longer needed while using Patcher & recommended alternatives, please visit this link.
+
+If you have any issues while using Patcher, please let us know at our support server on Discord.
 
 # how to use  !
 
@@ -7,12 +12,7 @@
   this wil bring up the menu
 
 
-Patcher is a Forge mod for 1.8.9 & 1.12.2 created to improve your all-around Minecraft experience, bringing tons of Quality of Life additions, performance improvements, and tons of Vanilla bug fixes.
 
-
-For a list of mods that are no longer needed while using Patcher & recommended alternatives, please visit this link.
-
-If you have any issues while using Patcher, please let us know at our support server on Discord.
 
 #changes
 
